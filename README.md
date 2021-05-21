@@ -2,8 +2,6 @@
 
 A Minecraft plugin that adds a command to carpet bomb your least favourite village :)
 
-<br />
-
 ## Table of Contents
 
 - [About](#about)
@@ -12,15 +10,11 @@ A Minecraft plugin that adds a command to carpet bomb your least favourite villa
 - [Installation (Default)](#default)
 - [Installation (Customised)](#custom)
 
-<br />
-
 ## About <a name = "about"></a>
 
 It's a plugin that spawns a carpet of primed TNT spreading from your location in the direction you're looking at. What more could you ask for?
 
 P.S. This was done in the middle of the night so the code is a bit unoptimised. My sincerest apologies.
-
-<br />
 
 ## Usage <a name = "usage"></a>
 
@@ -35,8 +29,6 @@ to unleash hellfire.
     <source src="videos/showcase.mp4" type="video/mp4">
 </figure>
 
-<br />
-
 ## Prerequisites <a name = "prereqs"></a>
 
 - [Paper 1.16.5](https://papermc.io/api/v2/projects/paper/versions/1.16.5/builds/711/downloads/paper-1.16.5-711.jar)
@@ -44,8 +36,6 @@ to unleash hellfire.
 - [VS Code Java Extension Pack](https://code.visualstudio.com/docs/java/java-project)
 - [OpenJDK](https://openjdk.java.net/install/)
 - [Apache Maven](https://maven.apache.org/download.cgi)
-
-<br />
 
 ## Installation (Default) <a name = "default"></a>
 
@@ -56,8 +46,6 @@ Initialise your server by navigating to the directory with your Paper `.jar` fil
 in the terminal.
 
 In the same directory, you should see a folder named `plugins`. Drag `carpetbomb-1.0.jar` into the folder and reinitialise your server. After entering your machine's IP address in Minecraft's multiplayer option, you should be good to go!
-
-<br />
 
 ## Installation (Customised) <a name = "custom"></a>
 
