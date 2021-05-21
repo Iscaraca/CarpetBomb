@@ -1,0 +1,10 @@
+name: carpetbomb
+main: carpetbomb.App
+version: 0.1
+author: Iscaraca
+commands:
+   carpetbomb:
+      description: CARPET BOMBBBBB.
+      usage: /carpetbomb [player] [number_of_tnt]
+      permission: carpetbomb.carpetbomb
+      permission-message: You don't have perms
