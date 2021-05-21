@@ -2,6 +2,8 @@
 
 A Minecraft plugin that adds a command to carpet bomb your least favourite village :)
 
+<br />
+
 ## Table of Contents
 
 - [About](#about)
@@ -9,6 +11,8 @@ A Minecraft plugin that adds a command to carpet bomb your least favourite villa
 - [Prerequisites](#prereqs)
 - [Installation (Default)](#default)
 - [Installation (Customised)](#custom)
+
+<br />
 
 ## About <a name = "about"></a>
 
