@@ -24,7 +24,7 @@ After installation (follow the steps after this section), simply type
 
 to unleash hellfire.
 
-<iframe src="https://player.vimeo.com/video/553471765?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="showcase"></iframe>
+![sample](https://user-images.githubusercontent.com/49803282/119185190-0f11db80-baa9-11eb-812b-5e4c59a45924.png)
 
 ## Prerequisites <a name = "prereqs"></a>
 
