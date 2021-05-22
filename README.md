@@ -22,7 +22,7 @@ After installation (follow the steps after this section), simply type
 
 ```/carpetbomb <player name> <number of cycles>```
 
-to unleash hellfire.
+to unleash hellfire. Watch the demo (Demonstration or demolition? Both.) [here](https://vimeo.com/553449450).
 
 ![sample](https://user-images.githubusercontent.com/49803282/119185190-0f11db80-baa9-11eb-812b-5e4c59a45924.png)
 
