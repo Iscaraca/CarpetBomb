@@ -14,13 +14,17 @@ A Minecraft plugin that adds a command to carpet bomb your least favourite villa
 
 It's a plugin that spawns a carpet of primed TNT spreading from your location in the direction you're looking at. What more could you ask for?
 
+What's new in version 1.1:
+- Ability to control the height of TNT drop and the fuse timer using the command
+- Blaze rods with the name `Boomstick` will now trigger a carpet bombing on click (This can be changed with custom installation)
+
 P.S. This was done in the middle of the night so the code is a bit unoptimised. My sincerest apologies.
 
 ## Usage <a name = "usage"></a>
 
 After installation (follow the steps after this section), simply type
 
-```/carpetbomb <player name> <number of cycles>```
+```/carpetbomb <player name> <number of cycles> <height of drop relative to player> <tnt fuse timer in ticks>```
 
 to unleash hellfire. Watch the demo(Demonstration or demolition? Both.) [here](https://vimeo.com/553449450).
 
